@@ -98,6 +98,10 @@ footer {
 h1,p,.icons{
     padding-top: 1.1rem;
 }
+.about>h2, h3{
+    color: black;
+
+}
 .icons{
     width: 50%;
     display: flex;
