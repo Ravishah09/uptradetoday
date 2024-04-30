@@ -177,3 +177,23 @@ h1,p,.icons{
     right: 10px;
     cursor: pointer;
 }
+.refundbody{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.refund{
+    height: 100vh;
+    width: 70vh;
+    overflow-y: scroll;
+    scrollbar-width:thin;
+    padding: 20px;
+}
+#xx{
+    background-color: antiquewhite;
+    font-size: large;
+    color: #333;
+    float: right;
+    padding: 4px;
+}
